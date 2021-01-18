@@ -5,3 +5,7 @@ p {
 .quote {
 	color: red;
 }
+
+.id {
+	border-style: solid;
+}
